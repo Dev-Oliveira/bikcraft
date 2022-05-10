@@ -1,0 +1,10 @@
+.bicicletas-bg {
+  background: var(--cor-11);
+}
+.bicicletas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
