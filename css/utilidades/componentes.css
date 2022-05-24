@@ -80,7 +80,9 @@
   padding-bottom: 60px;
   background-color: var(--cor-11);
 }
-
+.titulo {
+  background: url("../../recursos/dec/top-rigth.svg") no-repeat top right 20px;
+}
 .titulo p {
   margin-bottom: 4px;
 }
