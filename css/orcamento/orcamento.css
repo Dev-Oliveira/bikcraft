@@ -114,6 +114,8 @@
   display: none;
 }
 /* Não fiz nada hoje, mas foi por um bom motivo. */
+/* Motivo: tirei para fazer o teste para a 42 porto... PASSEI :D */
+
 .orcamento-contudo h2,
 .orcamento-dados h2:nth-of-type(n + 2) {
   margin-top: 20px;
