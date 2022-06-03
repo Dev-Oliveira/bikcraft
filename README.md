@@ -17,10 +17,10 @@ It is a responsive site, adaptable to smartphones and tablets, where javascript 
 ### ⚙️ How to run the project
 
 ```
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/Dev-Oliveira/bikcraft
 
-# Entre no diretório
+# Enter the directory
 cd bikcraft
 ```
 
